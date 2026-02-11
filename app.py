@@ -1,6 +1,6 @@
 
 from fastapi import FastAPI
-from graph.refund_graph import build_refund_graph
+from refund_graph import build_refund_graph
 
 app = FastAPI(title="Refund Request AI Agent")
 
