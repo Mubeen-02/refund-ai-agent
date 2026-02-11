@@ -1,0 +1,6 @@
+Refunds are allowed within 7 days if the product is damaged or defective.
+Refunds are not allowed for digital products once downloaded.
+Refund requests must include a valid order ID.
+Refunds for late delivery are allowed only if delay exceeds 5 days.
+If the product is marked as final sale, refunds are not permitted.
+If policy conditions are unclear, the request must be escalated to a human agent.
